@@ -75,9 +75,3 @@
 </p>
 
 <br>
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=manofval0r&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats" width="70%" />
-</div>
