@@ -79,12 +79,5 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manofval0r&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manofval0r&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="top languages" width="41%" />
-
 <img src="https://streak-stats.demolab.com/?user=manofval0r&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats" width="70%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=manofval0r&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" width="90%" />
-
 </div>
